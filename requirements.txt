@@ -4,3 +4,4 @@ psutil==5.9.6
 pytz==2023.3
 python-dotenv==1.0.0
 requests==2.31.0
+flask==2.3.3
